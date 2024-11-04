@@ -36,7 +36,6 @@ This project is part of a course module to demonstrate understanding of GUI deve
 - **Swing**: Java's GUI toolkit for building the user interface.
 - **Java I/O**: For reading and writing data files.
 - **GitHub**: Used for version control.
-- **Figma**: For initial design (if applicable).
 
 ## Installation
 
@@ -46,7 +45,7 @@ This project is part of a course module to demonstrate understanding of GUI deve
    
 2. Navigate to the project directory:
  
-cd YoFish-System
+cd YoFish-Inventory
 
 Open the project in your preferred Java IDE (e.g., IntelliJ IDEA or Eclipse).
 Run the project:
@@ -63,18 +62,16 @@ Usage
 
 4. **src/oop/ica/part2**:
 Main source code package containing:
--YoFishGUI: Main GUI class for user interaction.
--YoFishManager: Handles core functionality like data management and stock updates.
--DataManager: Utility class for file handling.
--ImageLoader: Loads images associated with each item.
+-**YoFishGUI**: Main GUI class for user interaction.
+-**YoFishManager**: Handles core functionality like data management and stock updates.
+-**DataManager**: Utility class for file handling.
+-**ImageLoader**: Loads images associated with each item.
 
 
 5. **License**
 
 This project is created for educational purposes as part of a university course. It is not intended for commercial use.
 
-javascript
-Copy code
 
 Be sure to replace `OOP, Teesside University`  in the link with the relevant details. You can add further customization or additional sections as needed!
 
